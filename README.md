@@ -1,7 +1,6 @@
 ### Hey I'm Max Cronin 
 
 - 😄 Pronouns: he/him
-- 🌱 I’m studying Data Science and Artificial Intelligence @ Uni Saarland 🇩🇪
 - 💬 I speak both English and German 
 - 💻 I code in Python and SQL
 - 👀 Check out my Pinned Repos
